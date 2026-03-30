@@ -22,7 +22,7 @@
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =1.59KHz
+Practical frequency of Oscillation =1.58KHz
 
 
-Theoritical Frequency of Oscillation =1.58KHz
+Theoritical Frequency of Oscillation =1.59KHz
